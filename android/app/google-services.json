@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "526220104670",
+    "project_id": "medinate-e6c37",
+    "storage_bucket": "medinate-e6c37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526220104670:android:b713f569001925e243c34f",
+        "android_client_info": {
+          "package_name": "com.example.medinate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526220104670-q81gnotuqqm50rf6tigo39f89au90r45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMa8mnFhTu_MishQdlbFG0VULLyAJvem8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526220104670-q81gnotuqqm50rf6tigo39f89au90r45.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "526220104670-ue8ag8ch79i43ig4b9cf2uv0f6fb8qvt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.medinate"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

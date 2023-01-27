@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>526220104670-ue8ag8ch79i43ig4b9cf2uv0f6fb8qvt.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.526220104670-ue8ag8ch79i43ig4b9cf2uv0f6fb8qvt</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAb4NczFVrAk8xAixRhZpiCQ8paw-R-p8A</string>
+	<key>GCM_SENDER_ID</key>
+	<string>526220104670</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.medinate</string>
+	<key>PROJECT_ID</key>
+	<string>medinate-e6c37</string>
+	<key>STORAGE_BUCKET</key>
+	<string>medinate-e6c37.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:526220104670:ios:db921bb4cbbe145543c34f</string>
+</dict>
+</plist>
